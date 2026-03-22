@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 
+
 An ESP32-based IoT system that enables real-time device control and environmental monitoring using a custom web interface and ThingSpeak cloud platform.
 
 ---
@@ -30,6 +31,7 @@ An ESP32-based IoT system that enables real-time device control and environmenta
 * DHT11 Sensor
 * LED
 
+
 ---
 
 ## 🚀 Future Improvements
@@ -37,3 +39,15 @@ An ESP32-based IoT system that enables real-time device control and environmenta
 * Relay-based appliance control
 * Automation system
 * Mobile app integration
+
+
+## 📸 Screenshots
+
+### Web Dashboard
+![Dashboard](images/Dashboard.png)
+
+### ThingSpeak Graph
+![ThingSpeak](images/ThingSpeak.png)
+
+### Circuit Diagram
+![Circuit](images/Circuit_Diagram.jpeg)
